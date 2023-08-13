@@ -1,2 +1,2 @@
-# PrecursoHenry
-Este es un repositorio de prueba del modulo dos del prepcourse de Henry. Ahora no aprete enter
+Este proyecto es una prueba de como crear un repositorio y pasarlo
+a mi escritorio local
